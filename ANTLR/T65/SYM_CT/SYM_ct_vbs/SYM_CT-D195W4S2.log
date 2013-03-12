@@ -1,0 +1,168 @@
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_SYM_CT_ANTLR/SYM_ct_vbs/SYM_CT-D195W4S2.vbs
+Starting Batch Run: 9:49:02 下午  十一月 19, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+-- Message Window --
+      SYM_CT-D195W4S2 (G:/HFSS_SIMULATIONS/T65_SYM_CT/)
+        BEOL_6X1Z1U (DrivenTerminal)
+          [warning] 'Solve inside' for object 'Metal9' is unset, due to material assignment change. (9:49:05 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_1". (9:49:05 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_1' is unset, due to material assignment change. (9:49:05 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_2". (9:49:05 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_2' is unset, due to material assignment change. (9:49:05 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_3". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_1". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_2". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_4". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_3". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_1". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_5". (9:49:06 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_5' is unset, due to material assignment change. (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_6". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_7". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_8". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_9". (9:49:06 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_10". (9:49:06 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_10' is unset, due to material assignment change. (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_11". (9:49:07 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_11' is unset, due to material assignment change. (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_12". (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_13". (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_14". (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_15". (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_16". (9:49:07 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_17". (9:49:07 下午  十一月 19, 2012)
+-- Message Window --
+Stopping Batch Run: 9:49:09 下午  十一月 19, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_SYM_CT_ANTLR/SYM_ct_vbs/SYM_CT-D195W4S2.vbs
+Starting Batch Run: 10:30:21 下午  十一月 19, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+-- Message Window --
+      SYM_CT-D195W4S2 (G:/HFSS_SIMULATIONS/T65_SYM_CT/)
+        BEOL_6X1Z1U (DrivenTerminal)
+          [warning] 'Solve inside' for object 'Metal9' is unset, due to material assignment change. (10:30:23 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_1". (10:30:23 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_1' is unset, due to material assignment change. (10:30:23 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_2". (10:30:23 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_2' is unset, due to material assignment change. (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_3". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_1". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_2". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_4". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_3". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_1". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_5". (10:30:24 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_5' is unset, due to material assignment change. (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_6". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_7". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_8". (10:30:24 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_9". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_10". (10:30:25 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_10' is unset, due to material assignment change. (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_11". (10:30:25 下午  十一月 19, 2012)
+          [warning] 'Solve inside' for object 'Metal9_11' is unset, due to material assignment change. (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_12". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_13". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_14". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_15". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_16". (10:30:25 下午  十一月 19, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_17". (10:30:25 下午  十一月 19, 2012)
+-- Message Window --
+Stopping Batch Run: 10:30:28 下午  十一月 19, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_SYM_CT_ANTLR/SYM_ct_vbs/SYM_CT-D195W4S2.vbs
+Starting Batch Run: 1:15:49 上午  十一月 22, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+-- Message Window --
+      SYM_CT-D195W4S2 (G:/HFSS_SIMULATIONS/T65_SYM_CT/)
+        BEOL_6X1Z1U (DrivenTerminal)
+          [warning] 'Solve inside' for object 'Metal9' is unset, due to material assignment change. (1:15:50 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_1". (1:15:50 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_1' is unset, due to material assignment change. (1:15:50 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal8' is unset, due to material assignment change. (1:15:50 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_1". (1:15:50 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_2". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_2". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_3". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_3". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_4". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_1". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_4". (1:15:51 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_4' is unset, due to material assignment change. (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_5". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_5". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_6". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_2". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_7". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_6". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_8". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_3". (1:15:51 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_7". (1:15:51 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_7' is unset, due to material assignment change. (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_8". (1:15:52 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_8' is unset, due to material assignment change. (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_9". (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_10". (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_11". (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_12". (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_13". (1:15:52 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_14". (1:15:52 上午  十一月 22, 2012)
+-- Message Window --
+Stopping Batch Run: 1:15:54 上午  十一月 22, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_SYM_CT_ANTLR/SYM_ct_vbs/SYM_CT-D195W4S2.vbs
+Starting Batch Run: 1:47:45 上午  十一月 22, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+-- Message Window --
+      SYM_CT-D195W4S2 (G:/HFSS_SIMULATIONS/T65_SYM_CT/)
+        BEOL_6X1Z1U (DrivenTerminal)
+          [warning] 'Solve inside' for object 'Metal9' is unset, due to material assignment change. (1:47:47 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_1". (1:47:47 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_1' is unset, due to material assignment change. (1:47:47 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal8' is unset, due to material assignment change. (1:47:47 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_1". (1:47:47 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_2". (1:47:47 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_2". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_3". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_3". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_4". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_1". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_4". (1:47:48 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_4' is unset, due to material assignment change. (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_5". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_5". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_6". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_2". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_7". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_6". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal8" is already used, use name "Metal8_8". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Via8" is already used, use name "Via8_3". (1:47:48 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_7". (1:47:48 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_7' is unset, due to material assignment change. (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_8". (1:47:49 上午  十一月 22, 2012)
+          [warning] 'Solve inside' for object 'Metal9_8' is unset, due to material assignment change. (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_9". (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_10". (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_11". (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_12". (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_13". (1:47:49 上午  十一月 22, 2012)
+          [warning] Part Attributes: Name "Metal9" is already used, use name "Metal9_14". (1:47:49 上午  十一月 22, 2012)
+-- Message Window --
+Stopping Batch Run: 1:47:51 上午  十一月 22, 2012

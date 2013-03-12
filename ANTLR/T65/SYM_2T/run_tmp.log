@@ -1,0 +1,1029 @@
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:49:14 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 80070223) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: The simulation for XFM-D120I5O2S2 : BEOL_6X1Z1U : Setup24G has been stopped on user request
+Line(19):  "oDesign.Analyze "Setup24G" "
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:49:28 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:49:58 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:49:59 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:50:00 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:51:18 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:51:19 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:51:20 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:51:21 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:54:53 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:54:54 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:54:55 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:54:56 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:55:47 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:55:48 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:55:49 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:55:50 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/XFM-D125I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\XFM-D125I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 5:55:51 下午  十月 20, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:39 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:41 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:43 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:46 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:55 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:56 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:57 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:06:59 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:10 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:11 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:12 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:13 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:14 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:16 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D130I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:18 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D135I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:21 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D135I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:23 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D140I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:07:25 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D140I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:30 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:32 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:34 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:38 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:39 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:40 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:41 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:08:42 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D130I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:10:23 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:10:25 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:11:05 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:11:06 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:11:13 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:11:14 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:11:15 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 800a01a8) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: 此處需要物件: ''
+Line(19):  "oModule.ExportNetworkData "", Array("Setup24G:SWP40G"), 3, "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.s4p", Array("all"), true, 50.0"
+Cause: Microsoft VBScript 執行階段錯誤
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:13:01 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:13:02 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D120I5O3S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D120I5O3S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:13:03 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+[warning] Script Error (Code 8007020b) in file:  F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Description: Project G:/HFSS_SIMULATIONS/T65_XFM/EM0/XFM-D125I5O2S2.hfss is locked and cannot be opened.
+Line(15):  "oDesktop.OpenProject "G:\HFSS_SIMULATIONS\T65_XFM\EM0\XFM-D125I5O2S2.hfss""
+
+[warning] HFSS cannot be closed right now because it is being used by another application or a script.
+
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:03 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:06 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:06 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:09 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:10 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:12 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:13 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:15 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:16 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:19 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:19 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:22 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:22 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:25 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:26 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:28 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:29 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:32 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:32 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:35 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:17:36 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:17:39 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:18 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:20 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:21 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:24 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:24 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:28 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:28 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:32 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:33 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:36 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:36 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:39 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:40 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:42 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:43 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:46 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:46 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:49 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:49 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:50 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:54 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:18:54 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:18:58 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:08 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:11 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:11 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:14 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:15 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:17 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:18 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:21 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:21 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:24 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:25 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:28 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:28 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:31 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:32 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:35 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:35 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:38 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:39 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:42 下午  十月 21, 2012
+ 
+Ansoft HFSS Version 14.0.0, Build: 2011-10-22 21:03:32
+Location: C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe
+Batch Script: F:/Dropbox/ANTLR/HFSS_API/examples/T65_XFM_ANTLR/run_tmp.vbs
+Starting Batch Run: 8:19:42 下午  十月 21, 2012
+Running as user: michael-PC\michael2
+Temp directory: C:\Users\michael\AppData\Local\Temp
+Project directory: C:\Users\michael2\Documents\Ansoft
+Stopping Batch Run: 8:19:45 下午  十月 21, 2012
