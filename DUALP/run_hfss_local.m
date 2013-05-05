@@ -1,4 +1,4 @@
-function run_hfss_local(dir)    
+function run_hfss_local(dir)
     addpath('..');
     % Create a new temporary HFSS script file.	
     path = [dir '/*.hfss'];
