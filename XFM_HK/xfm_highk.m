@@ -3,17 +3,12 @@
 clear all;
 % add paths to the required m-files.
 try
-    addpath('..');
-    init_hfssapi;		
-    runAndExit = true ; 
-    runAndExit = false ; % debug
-    iconized = true ;    
-    nowait = false; 
+    addpath('..');        
     serial = 0;
     % Create a new temporary HFSS script file.	
-    OD = 115:5:140;
+    OD = 170:10:200;
     % M11_W = 5;  M11_S = 2;
-    M9_WI = 4:5; 
+    M9_WI = 15; 
     M9_WO = 3; 
     M9_S = 2;    
 	iter = 1;
@@ -27,10 +22,10 @@ try
                 % Remove commas from numbers
                 fn = ['XFM-D' num2str(OD(i)) 'I' num2str(M9_WI(j))  'O' num2str(M9_WO(k)) 'S' num2str(M9_S(l)) ];
                 x = regexprep(x, 'HFSS_FILENAME', fn);
-                x = regexprep(x, 'OD_VAL', num2str(OD(i)));
-                x = regexprep(x, 'WI_VAL', num2str(M9_WI(j)));
-                x = regexprep(x, 'WO_VAL', num2str(M9_WO(k)));
-                x = regexprep(x, 'S_VAL', num2str(M9_S(l)));
+                x = regexprep(x, '<OD>', num2str(OD(i)));
+                x = regexprep(x, '<WI>', num2str(M9_WI(j)));
+                x = regexprep(x, '<WO>', num2str(M9_WO(k)));
+                x = regexprep(x, '<S>', num2str(M9_S(l)));
                 file_out = fopen(['E:\HFSS_API_RUN\XFM_HIGHK\' fn '.vbs'],'w+') ;                                  
                 fprintf(file_out,'%s',x);
                 fclose all;
@@ -48,6 +43,3 @@ catch exception
     % Show the error thrown
     disp(exception.message);
 end
-
-% remove all the added paths.
-deinit_hfssapi;
