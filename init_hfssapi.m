@@ -1,4 +1,4 @@
-prefix = '../';
+prefix = '';
 pathdir = pwd;
 path = [prefix '/sbox/'];
 addpath([pathdir path]);

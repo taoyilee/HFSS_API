@@ -11,24 +11,24 @@ try
     nowait = false; 
     serial = 0;
     % Create a new temporary HFSS script file.	
-    OD = 60:10:200;
+    OD = 70:5:200;
     % M11_W = 5;  M11_S = 2;
-    M9_W = 2:2:4; 
-    M9_S = 2:2:4;
+    M9_W = 2:4; 
+    M9_S = 2:4;
 	iter = 1;
 	total = length(OD)*length(M9_W)*length(M9_S);	
     for i=1:length(OD)
         for j=1:length(M9_W)
             for k=1:length(M9_S)
                 % Read file as text
-                x = fileread('ind_dualp.vbs');                
+                x = fileread('ind_dual.vbs');                
                 % Remove commas from numbers
-                fn = ['ind_dualp-D' num2str(OD(i)) 'W' num2str(M9_W(j))  'S' num2str(M9_S(k)) ];
+                fn = ['ind_dual-D' num2str(OD(i)) 'W' num2str(M9_W(j))  'S' num2str(M9_S(k)) ];
                 x = regexprep(x, 'HFSS_FILENAME', fn);
                 x = regexprep(x, '<OD>', num2str(OD(i)));
                 x = regexprep(x, '<W>', num2str(M9_W(j)));
                 x = regexprep(x, '<S>', num2str(M9_S(k)));
-                file_out = fopen(['.\DUALP\' fn '.vbs'],'w+') ;                                  
+                file_out = fopen(['E:\HFSS_API_RUN\DUAL\' fn '.vbs'],'w+') ;                                  
                 fprintf(file_out,'%s',x);
                 fclose all;
                 iter = iter + 1;                   
