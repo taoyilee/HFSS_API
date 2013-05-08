@@ -31,20 +31,10 @@ try
                 x = regexprep(x, 'WI_VAL', num2str(M9_WI(j)));
                 x = regexprep(x, 'WO_VAL', num2str(M9_WO(k)));
                 x = regexprep(x, 'S_VAL', num2str(M9_S(l)));
-                file_out = fopen(['vbs/' fn '.vbs'],'w+') ;                                  
+                file_out = fopen(['E:\HFSS_API_RUN\XFM_HIGHK\' fn '.vbs'],'w+') ;                                  
                 fprintf(file_out,'%s',x);
                 fclose all;
-%                     try
-%                         disp('Script received, simulation start ...');                        
-%                         hfssExecuteScript(hfssExePath, tmpScriptFile,iconized,runAndExit,nowait);
-%                         %plotL(tmpDataFiles,OD(i), M9_W(j), M9_S(k), NT(l), replot);
-%                         
-%                     catch e
-%                         disp(['*** Iteration failed-> OD' num2str(OD(i)) 'WI' num2str(M9_WI(j)) 'WO' num2str(M9_WO(k)) 'S' num2str(M9_S(l))]);
-%                         disp('Continuing ...');                       
-%                     end
-                    iter = iter + 1;
-                    
+				iter = iter + 1;
                 end
             end
         end
