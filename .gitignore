@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.md
+!*.sh
+!*.m
+!*.vbs
+!*.csv
+!*.xlsx
+!*/
