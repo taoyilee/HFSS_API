@@ -6,9 +6,9 @@ try
     addpath('..');        
     serial = 0;
     % Create a new temporary HFSS script file.	
-    OD = 170:10:200;
+    OD = 160:10:200;
     % M11_W = 5;  M11_S = 2;
-    M9_WI = 15; 
+    M9_WI = 4; 
     M9_WO = 3; 
     M9_S = 2;    
 	iter = 1;

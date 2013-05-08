@@ -1,12 +1,18 @@
-function run_em(filename, N, DESIGN_NAME, hfss_path, machine)
-    [path, name, ext] = fileparts(filename);           
-    if(~exist([path '\' name '.s' num2str(N) 'p'],'file'))
+function run_em(filename, N, DESIGN_NAME, hfss_path, varargin)
+    narginchk(4,5)
+    [path, name, ~] = fileparts(filename);           
+    if(~exist([path '\' name '.s' num2str(N) 'p'],'file'))        
         disp(['Procssing -> ' filename  ' .....']);
-        try                                   
-            hfssExePath = '"C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe"';
-            cmd = [hfssExePath ' -ng -Remote -machinelist list="' machine '"   '...
-            ' -batchsolve ' DESIGN_NAME '  "' path '\' name '.hfss"'];            
-            disp(['COMMAND -> ' cmd]);
+        hfssExePath = '"C:\Program Files\Ansoft\HFSS14.0\Win64\hfss.exe"';
+        hfssPjtPath =  [' -batchsolve ' DESIGN_NAME '  "' path '\' name '.hfss"'];
+        if(nargin == 4)            
+            cmd = [hfssExePath ' -ng  -Local' hfssPjtPath];
+        else           
+            cmd = [hfssExePath ' -ng -Remote ' ...
+                '-machinelist list="' machine '"  ' hfssPjtPath];            
+        end
+            disp(['***** COMMAND -> ' cmd]);
+        try                                               
             [status, result] = system(cmd);
             disp([num2str(status) result]);
             export_snp(filename, N, DESIGN_NAME, hfss_path)  ;
