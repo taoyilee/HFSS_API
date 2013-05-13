@@ -98,9 +98,9 @@ end;
 
 % Setup Run and Exit Mode.
 if (runAndExit)
-    runStr = '/RunScriptAndExit';    
+    runStr = '-RunScriptAndExit ';    
 else
-    runStr = '/RunScript';
+    runStr = '-RunScript';
 end;
 
 % Setup Iconic Mode.
@@ -112,7 +112,7 @@ end;
 
 % Create the Command Path.
 cmdHFSS = [hfssExePath, ' ', iconStr, ' ', runStr, ' ', ...
-           ScriptFile];
+           '"' ScriptFile '"'];
 if (nowait)
     cmdHFSS = [cmdHFSS ' &'];
 end
@@ -120,5 +120,7 @@ end
 disp(sprintf('Running HFSS using (A) %s ...\n', cmdHFSS));
 [Status, Result] = system(cmdHFSS);
 if (Status ~= 0)
-	warning('HFSS Execution returned an error status !');
+	disp(['*** ' datestr(now) ' *** HFSS Execution returned an error status !']);
+    disp(['*** ' datestr(now) ' *** HFSS Status->' num2str(Status)]);
+    disp(['*** ' datestr(now) ' *** HFSS Result->' Result]);
 end;

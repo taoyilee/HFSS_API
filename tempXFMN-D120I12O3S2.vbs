@@ -7,11 +7,11 @@ Dim oModule
 Set oAnsoftApp = CreateObject("AnsoftHfss.HfssScriptInterface")
 Set oDesktop = oAnsoftApp.GetAppDesktop()
 oDesktop.RestoreWindow
-oDesktop.OpenProject "HFSS_DIR\HFSS_FILENAME.hfss"
+oDesktop.OpenProject "E:\HFSS_API_RUN\XFMN2\XFMN-D120I12O3S2.hfss"
 Set oProject = oDesktop.GetActiveProject
-Set oDesign = oProject.SetActiveDesign("DESIGN_NAME")
+Set oDesign = oProject.SetActiveDesign("xfm_highk")
 Set oEditor = oDesign.SetActiveEditor("3D Modeler")
 oDesign.Analyze "SP_Sim"
 Set oModule = oDesign.GetModule("Solutions")
-oModule.ExportNetworkData "", Array("SP_Sim:SP_Sim_Sweep"), 3, "HFSS_DIR\HFSS_FILENAME.s<N>p", Array("all"), true, 50.0
+oModule.ExportNetworkData "", Array("SP_Sim:SP_Sim_Sweep"), 3, "E:\HFSS_API_RUN\XFMN2\XFMN-D120I12O3S2.s4p", Array("all"), true, 50.0
 oProject.Save
